@@ -66,14 +66,15 @@
 ## Project Structure
 
 ```text
-cpu_ray-tracer/
-├── assets/          # Images used in the README
-├── include/         # Camera, materials, geometry, vectors, and ray utilities
-├── src/             # Main rendering pipeline
-├── output/          # Rendered PPM images
-├── extra/           # Additional helper files and notes
-├── README.md
-└── LICENSE
+LuminaryRenderer/
+├── .vscode/       # Editor configuration
+├── assets/        # README images and render previews
+├── include/       # Camera, materials, geometry, vectors, and ray utilities
+├── output/        # Render output and executable
+├── src/           # Main rendering pipeline
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
