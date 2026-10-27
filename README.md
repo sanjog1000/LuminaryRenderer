@@ -1,6 +1,6 @@
-# CPU Ray Tracer
+# LuminaryRenderer
 
-> A CPU-based Monte Carlo ray tracer built in modern C++, inspired by *Ray Tracing in One Weekend* and extended with cinematic rendering features including Depth of Field, procedural Value Noise texturing, HDR tone mapping, gamma correction, and Bloom post-processing.
+> A C++17 CPU Monte Carlo path tracer inspired by *Ray Tracing in One Weekend*, featuring diffuse, metallic, dielectric, and emissive materials, thin-lens depth of field, procedural Value Noise, HDR tone mapping, gamma correction, and bloom post-processing.
 
 <p align="center">
 
